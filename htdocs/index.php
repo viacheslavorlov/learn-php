@@ -18,7 +18,9 @@
     <a href="lesson-8-functions/index.php"> лекция 8 встроенные функции</a>
     <a href="lesson-9-приведение-типов/index.php"> лекция 9 приведение типов</a>
     <a href="lesson-10-nums/index.php"> лекция 10 </a>
-    <a href="ООП-1/index.php"> ООП-1</a>
+    <a href="lesson-11-12-ООП/index.php"> ООП-11+12</a>
+    <a href="lesson-13-ООП/index.php"> ООП-13</a>
+    <a href="lesson-14-константы/index.php">Константы</a>
 </main>
 </body>
 </html>
